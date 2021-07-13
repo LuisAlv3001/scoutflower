@@ -249,3 +249,10 @@ function wp_enqueue_woocommerce_style(){
 }
 add_action( 'wp_enqueue_scripts', 'wp_enqueue_woocommerce_style' );
 
+
+add_filter( 'woocommerce_paypal_supported_currencies', 'add_paypal_valid_currency' );
+
+function add_paypal_valid_currency( $currencies ) {
+	array_push ( $currencies , 'CRC' ); 
+	return $currencies;
+}
