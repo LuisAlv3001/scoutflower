@@ -554,22 +554,17 @@ p.demo_store,
 
 		li {
 			list-style: none outside;
-		}
-	}
-
-	ul.products li.product {
-
-		li{
 			padding: 1rem !important;
 			transition: 0.1s;
 		}
-
+		
 		li:hover{
 			transition: 0.1s;
 			box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.40);
 		}
+	}
 
-
+	ul.products li.product {
 		.onsale {
 			top: 0;
 			right: 0;
