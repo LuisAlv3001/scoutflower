@@ -56,7 +56,7 @@
                     <div class="col-3 number" id="seconds" style="color: #E75A7C !important;">0</div>
                 </div>
                 <div class="row">
-                    <div class="col-3 date">porprpr</div>
+                    <div class="col-3 date">Days</div>
                     <div class="col-3 date">Hours</div>
                     <div class="col-3 date">Minutes</div>
                     <div class="col-3 date">Seconds</div>
