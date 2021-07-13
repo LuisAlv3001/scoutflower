@@ -559,8 +559,16 @@ p.demo_store,
 
 	ul.products li.product {
 
-		padding: 1rem !important;
-    	transition: 0.1s;
+		li{
+			padding: 1rem !important;
+			transition: 0.1s;
+		}
+
+		li:hover{
+			transition: 0.1s;
+			box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.40);
+		}
+
 
 		.onsale {
 			top: 0;
@@ -631,11 +639,6 @@ p.demo_store,
 				color: rgba(desaturate($highlight, 75%), 0.5);
 			}
 		}
-	}
-
-	li.product:hover{
-		transition: 0.1s;
-		box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.40);
 	}
 
 	.woocommerce-result-count {
