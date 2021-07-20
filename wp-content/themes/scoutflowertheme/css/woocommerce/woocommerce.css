@@ -313,6 +313,11 @@ p.demo_store a,
   position: relative;
 }
 
+.woocommerce div.product .row {
+  -ms-flex-pack: distribute !important;
+      justify-content: space-around !important;
+}
+
 .woocommerce div.product .product_title {
   clear: none;
   margin-top: 0;
@@ -769,7 +774,6 @@ p.demo_store a,
 .woocommerce .products ul li,
 .woocommerce ul.products li {
   list-style: none outside;
-  padding: 2rem !important;
   -webkit-transition: 0.1s;
   transition: 0.1s;
   -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);

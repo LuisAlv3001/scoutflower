@@ -125,6 +125,10 @@ p.demo_store,
 		margin-bottom: 0;
 		position: relative;
 
+		.row {
+			justify-content: space-around !important;
+		}
+
 		.product_title {
 			clear: none;
 			margin-top: 0;
@@ -554,7 +558,6 @@ p.demo_store,
 
 		li{
 			list-style: none outside;
-			padding: 2rem !important;
 			transition: 0.1s;
 			box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.20);
 			display: flex;
