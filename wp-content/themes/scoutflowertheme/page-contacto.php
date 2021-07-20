@@ -5,9 +5,9 @@ get_header();?>
 
     <div class="text-center">
         
-            <h1 class="titles">Contact Us</h1>
+            <h1 class="titles">Contáctenos</h1>
         
-            <h5 class="contact-subtitle mt-3">We're happy to help</h5>
+            <h5 class="contact-subtitle mt-3">Estamos felices de ayudar</h5>
 
             <div class="row contact-box mt-5">
             
@@ -15,7 +15,7 @@ get_header();?>
             <div class="form col-6">
                 <form class="text-center">
                     <div class="form-group row justify-content-center">
-                        <input type="text" class="form-control input col-12" placeholder="Name"/>
+                        <input type="text" class="form-control input col-12" placeholder="Nombre"/>
                     </div>
                     
                     <div class="form-group row justify-content-center">
@@ -23,11 +23,11 @@ get_header();?>
                     </div>
                     
                     <div class="form-group row justify-content-center">
-                        <textarea type="text" class="form-control input col-12" placeholder="Let us know what's going on"></textarea>
+                        <textarea type="text" class="form-control input col-12" placeholder="¿En qué te podemos ayudar?"></textarea>
                     </div>
                     
                     <div class="form-group row justify-content-center">
-                        <button type="submit" class="btn btn-primary">Send</button>
+                        <button type="submit" class="btn btn-primary">Enviar</button>
                     </div>
                 </form>
             </div>
