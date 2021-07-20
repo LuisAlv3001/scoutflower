@@ -717,7 +717,7 @@ p.demo_store,
 		border-radius: 3px;
 		left: auto;
 		color: $secondarytext;
-		background-color: $secondary;
+		background-color: #e75a7c;
 		border: 0;
 		display: inline-block;
 		background-image: none;
@@ -748,7 +748,7 @@ p.demo_store,
 		}
 
 		&:hover {
-			background-color: darken($secondary, 5%);
+			background-color: darken(#e75a7c, 5%);
 			text-decoration: none;
 			background-image: none;
 			color: $secondarytext;
