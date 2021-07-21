@@ -41,7 +41,7 @@
 			<div class="container">
 				<div class="botton-footer-content">
 					<a>All rights reserved © 2021</a>
-					<a href="#" style="color: #D8D8D8;">www.outland.com</a>
+					<a href="https://dev-scoutflower.pantheonsite.io/" style="color: #D8D8D8;">www.xflor.com</a>
 				</div>
 			</div>
 		</div>
