@@ -31,7 +31,7 @@
                 <div>
                     <h1>Exclusive limited wear!</h1>
                 </div>
-                <p class="primary-card-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis, labore natus est voluptatum cumque mollitia culpa sapiente vitae dolorum dolorem nulla! Ratione repellat ullam nisi molestiae quasi incidunt repudiandae eos.</p>
+                <p class="primary-card-text">We work with a drop system, every now and then we drop new merchandise. Each drop has three products with three different designs related to a theme, once a drop sells out it won't be produced again so make sure to hurry and get yours before it's too late.</p>
             </div>
             <div class="col-8 primary-card-container">
                 <a href="/wordpress/shop">
