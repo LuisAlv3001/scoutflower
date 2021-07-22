@@ -4,9 +4,9 @@ get_header();?>
 
     <div class="container">
 
-        <!-- <div class="d-flex justify-content-center mb-3" style="font-size: 1.5rem;">
-            <p class="col-8 text-center">Xflor is an independent clothing brand co-founded by a group of friends looking to make income to support their projects. In exchange of you supporting us monetarily you’ll get in return you clothing with not just badass designs but story and craft behind it.</p>
-        </div> -->
+        <div class="d-flex justify-content-center mb-3" style="font-size: 1.5rem;">
+            <p class="col-8 text-center">About Xflor</p>
+        </div>
 
         <div class="row">
             <div class="col-8">
