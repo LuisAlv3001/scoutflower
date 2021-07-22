@@ -18,6 +18,10 @@ var x = setInterval(function() {
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("").innerHTML = "Expired";
+    document.getElementById("timer-title").innerHTML = "New drop available!";
+    var element = document.getElementById("go-button");
+    element.classList.add("d-block");
+    var element = document.getElementById("timer");
+    element.classList.add("d-none");
   }
 }, 1000);

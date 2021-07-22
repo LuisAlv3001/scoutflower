@@ -46,8 +46,11 @@
     </div>
         
     <div class="next-drop">
-        <h1>next drop in:</h1>
-        <div class="timer text-center">
+        <h1 id="timer-title">next drop in:</h1>
+        <div id="go-button" class="text-center" style="width: 100%; display: none;">
+            <a class="go-button" href="/shop/">GO</a>
+        </div>
+        <div id="timer" class="timer text-center">
             <div class="timer-color">
                 <div class="row">
                     <div class="col-3 number" id="days">0</div>
