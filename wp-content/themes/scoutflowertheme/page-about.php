@@ -4,7 +4,7 @@ get_header();?>
 
     <div class="container">
 
-        <h1 class="titles text-center">Get to know us</h1>
+        <h1 class="text-center mb-5">Get to know us</h1>
         <!-- <div class="d-flex justify-content-center mb-3" style="font-size: 1.5rem;">
             <p class="col-8 text-center">About Xflor</p>
         </div> -->
