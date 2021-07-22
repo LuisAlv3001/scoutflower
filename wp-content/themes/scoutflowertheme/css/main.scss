@@ -150,9 +150,11 @@ body {
 .go-button{
     font-size: 2rem;
     font-weight: bold;
-    color: white;
+    color: white !important;
     background-color: #E75A7C;
     text-decoration: none;
+    padding: 2px 20px;
+    border-radius: 3px;
 }
 
 .go-button:hover{
