@@ -132,6 +132,19 @@ body {
   color: #2c363f;
 }
 
+.go-button {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  background-color: #E75A7C;
+  text-decoration: none;
+}
+
+.go-button:hover {
+  background-color: #e4446a;
+  text-decoration: none;
+}
+
 .next-drop {
   width: 100%;
   background-color: #BBC7A4;
