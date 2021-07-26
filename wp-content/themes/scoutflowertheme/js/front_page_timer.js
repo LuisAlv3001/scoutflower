@@ -1,9 +1,9 @@
-var countDownDate = new Date("Jul 22, 2021 11:08:40").getTime();
+var countDownDate = new Date("Aug 15, 2021 00:00:00").getTime();
 
 var x = setInterval(function() {
 
   var now = new Date().getTime();
-
+  
   var distance = countDownDate - now;
 
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
