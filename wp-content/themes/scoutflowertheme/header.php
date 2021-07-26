@@ -29,7 +29,7 @@
             <div class="container pt-3 pb-3">
                 <div class="row d-flex align-items-center justify-content-start">
                     <div class="col">
-                        <a class="" href="dev-scoutflower.pantheonsite.io"><h2>Xflor</h2></a>
+                        <a class="" href="https://dev-scoutflower.pantheonsite.io/"><h2>Xflor</h2></a>
                     </div>
                     <div class="col-md-7 col-sm-12">
                         <?php if ( function_exists( 'aws_get_search_form' ) ) { aws_get_search_form(); } ?>
